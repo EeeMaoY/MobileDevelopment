@@ -1,5 +1,4 @@
-# MobileDevelopment
-# 移动平台开发技术
+# MobileDevelopment 移动平台开发技术
 
 ## Homework1 FindMy App复现
 
